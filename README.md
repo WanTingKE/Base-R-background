@@ -1,4 +1,4 @@
-# Base-R-background
+# User-R-background informations
 
 <h2>List of user installed R packages
 
