@@ -1,9 +1,0 @@
-user <- as.data.frame(installed.packages()[,c(1,3:4)])
-
-rownames(user) <- NULL
-
-user <- user [is.na(user $Priority),1:2,drop=FALSE]
-
-write.csv(user,"User_Rpackages_list.csv",row.names=F)
-
-#print(user, row.names=FALSE)   
