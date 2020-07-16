@@ -14,3 +14,7 @@ https://gist.github.com/stevenworthington/3178163
 
 ![image](https://user-images.githubusercontent.com/45618275/51018754-b4e8dd80-15b3-11e9-8017-e5885f05b25f.png)
 
+<h4> sessionInfomation
+  
+![image](https://user-images.githubusercontent.com/45618275/87621515-88d38d00-c753-11ea-92f9-261018856367.png)
+
