@@ -22,7 +22,7 @@ https://gist.github.com/stevenworthington/3178163
   
 ![image](https://user-images.githubusercontent.com/45618275/87621944-93daed00-c754-11ea-9b46-b0cd2e8e9033.png)
 
-<h4>remove.packages
+<h4>remove.packages("package name")
   
 <h4>中文讀取障礙
   
